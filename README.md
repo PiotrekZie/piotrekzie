@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Web Development (I'm mainly trying to get started with HTML, CSS and JS) 
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact: Food and Music🎵 are the reasons to live.
 
 - 👨‍💻 I'm passionate about Web Dev & I enjoy learning new stuff.
 
@@ -19,4 +19,4 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piotr-zielinskii/)
 
-![Views](https://komarev.com/ghpvc/?username=PiotrekZie&color=dc143c)
+![Views](https://komarev.com/ghpvc/?username=PiotrekZie&color=dc143c) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
