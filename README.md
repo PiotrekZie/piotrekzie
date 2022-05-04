@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm ![Piotrek](https://www.linkedin.com/in/piotr-zielinskii/)
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm [Piotrek](https://www.linkedin.com/in/piotr-zielinskii/)
 <h3 align="center">I am a graduate of this year’s Computer Science - Engineer degree (WSB Universities in Poznan) with a specialization in Graphics and Multimedia. I want to combine my career with the IT industry🌟.</h3>
 
 
