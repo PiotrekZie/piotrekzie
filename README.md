@@ -4,7 +4,7 @@
 
 ## About Me 🚀
 
-- 🌱 I’m currently learning Web Development (I'm mainly trying to get started with HTML, CSS and JS) 
+- 🌱 I’m currently learning Web Development (I'm mainly trying to get started with HTML, CSS, SCSS and JS) 
 
 - ⚡ Fun fact: Food and Music🎵 are the reasons to live.
 
